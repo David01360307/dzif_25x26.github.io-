@@ -1,0 +1,13 @@
+.title{
+    font-size: 1cm;
+}
+
+th,td{
+    border: 1px #000000 solid;
+    text-align: center;
+    
+}
+
+table{
+    margin:auto;
+}
