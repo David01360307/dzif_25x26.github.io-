@@ -1,0 +1,167 @@
+
+
+.ads{
+    color: green;
+    text-align: center;
+    font-size: 15px; 
+    
+}
+ 
+.ads_content{
+    text-align: center;
+    font-size: 10;
+}
+
+.what{
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    border: 6px solid black;
+    top: 10px;
+    left: 30px;
+    position: fixed;
+}
+
+.first{
+    text-align: center; 
+    font-size: 20px;
+}
+
+
+.body{
+    height:100%;
+    width:100%;
+}
+
+
+.title{
+    font-size: 1cm ;
+}
+.contain{
+    font-size:200%;
+}
+
+.concept{
+    font-size:150%;
+}
+
+.center{
+    text-align: center;
+}
+
+
+.small{
+    font-size:18px;
+}
+.verysmall{
+    font-size:0.5px;
+}
+    
+
+.impact span table1{
+    color: #ba03fc;
+    opacity: 0.01;
+}
+
+.text{
+    line-height: 60px;
+}
+
+
+
+
+a{
+    display: block;
+    line-height: 15px;
+}
+
+
+
+#結束{
+    clear: both;
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: green;
+    font-size: 1.5cm;
+} 
+
+
+
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}  
+
+.box-1{
+    height:200%;
+    width:60%;
+    
+}
+.b-up{
+    flex: 2;
+    padding-left: 120px;
+}
+
+.b-down{
+    flex: 8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.b-right{
+    flex: 5;
+}
+
+.b-center{
+    flex:3;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+}
+.b-left{
+    flex:3;
+    text-align: center;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: repeat(3, 100px);
+    gap: 5px;
+}
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+img{
+    width: 100%;
+    height: 100;
+    align-items: center;
+}
+
+th,td{
+    border: 1px #000000 solid;
+    text-align: center;
+}
+
+
+
+
