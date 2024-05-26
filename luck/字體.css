@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ChenYuluoyan-Thin';
+    font-style: cursive;
+    font-weight: 400;
+    font-display: swap;
+    src: url(word/ChenYuluoyan-Thin.ttf) format('woff2');
+}
+
+p{
+    font-family:  "ChenYuluoyan-Thin", cursive;
+}

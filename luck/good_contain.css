@@ -1,0 +1,26 @@
+.title{
+    font-size: 1cm;
+}
+
+th,td{
+    border: 1px #000000 solid;
+    text-align: center;
+}
+
+table{
+    margin:auto;
+}
+
+div img{
+    width: 25%;
+    height: 25%;
+}
+
+.pic{
+    width: 5%;
+    height: 5%;
+}
+
+.concept{
+    font-size: 2rem;
+}
